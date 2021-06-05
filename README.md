@@ -3,11 +3,11 @@ A Software application for managing the Health records of Citizens. There are ma
 Health care management is evolving rapidly. And hence this project is aimed to manage the records of patients, and conclude a particular spread of disease as soon as possible. It can be achieved by implementing Data Structures and Big Data Analysis.
 A console based program where a citizen can login with the help of a “health card number”, and can view all of his medical history . This program is meant to collect data at mass level and help to predict or to manage a spread of a particular disease in a particular location.
 
-###**OBJECTIVES**
+**###OBJECTIVES
 
-⮚	This software will help patients as well as doctors to view patient medical history.
-⮚	Through this software a customized data will be obtained regarding epidemic.
-⮚	The data obtained can help in controlling and managing  several epidemics.
-⮚	Patient will be able to check the availability of beds.
-⮚	Patient will be able to take appointment from the doctor.
-⮚	The list of prescribed medicines by the doctor will be automatically forwarded to the pharmacy associated.
+1. This software will help patients as well as doctors to view patient medical history.
+2. Through this software a customized data will be obtained regarding epidemic.
+3. The data obtained can help in controlling and managing  several epidemics.
+4. Patient will be able to check the availability of beds.
+5. Patient will be able to take appointment from the doctor.
+6. The list of prescribed medicines by the doctor will be automatically forwarded to the pharmacy associated.
